@@ -6,6 +6,7 @@ I'm open to any work experience!
 <a href = "https://www.linkedin.com/in/jenni-tran-84ba02249/">LinkedIn</a>
 </html>
 
+🤔 I’m looking for help with open source!
 <!--
 **Jcrunchhh/Jcrunchhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
