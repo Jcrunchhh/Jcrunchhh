@@ -1,4 +1,4 @@
-### Hello! My name is Jenni and I am currently working towards being a Front End Developer!
+### Hello! My name is Jenni and I am currently working towards being a Software Developer!
 I'm open to any work experience!
 
 📫 How to reach me: 
