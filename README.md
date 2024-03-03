@@ -1,6 +1,4 @@
-### Hello! My name is Jenni and I am currently working towards being a Software Developer!
-I'm open to any work experience!
-
+### Hello! My name is Jenni and I am currently studying CompSci!
 📫 How to reach me: 
 <html>
 <a href = "https://www.linkedin.com/in/jenni-tran-84ba02249/">LinkedIn</a>
